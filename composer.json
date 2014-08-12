@@ -1,6 +1,7 @@
 {
     "name": "vitalijssilins/streammediadownload",
     "description": "This class let`s you download media from streaming services like Soundcloud, Grooveshark and Mixcloud",
+    "keywords": ["stream", "grooveshark", "mixcloud", "soundcloud", "download", "media"],
     "license": "GPLv3",
     "authors": [
         {

@@ -20,7 +20,7 @@ Installation
 Stream Media Download uses composer to maintain dependencies. Installation procedure:
 
 ```sh
-git clone [git-repo-url] streammediadownload
+git clone https://github.com/vitalijssilins/streammediadownload streammediadownload
 cd streammediadownload
 php composer.phar install
 ```
