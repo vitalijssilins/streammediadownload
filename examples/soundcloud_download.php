@@ -11,8 +11,8 @@ use StreamMediaDownload\SoundCloudAdapter;
  * You can obtain keys from here: http://soundcloud.com/you/apps/new (you should be registered on soundcloud)
  * if you don`t want to use API, leave parameters empty
  */
-$soundcloudClientID        = 'b86f52305347171e1183423c792e38aa';
-$soundcloudClientSecretID  = 'b8afe8fbcad949682f11184c499b309d';
+$soundcloudClientID        = '';
+$soundcloudClientSecretID  = '';
 
 $soundCloudAdapter     = new SoundCloudAdapter($soundcloudClientID, $soundcloudClientSecretID);
 
