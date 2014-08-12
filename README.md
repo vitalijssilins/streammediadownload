@@ -5,7 +5,7 @@ Stream Media Download is a PHP script, which is capable of getting stream links 
 You can fork this project and use AbstractAdapter.php class to add additional streaming services.
 You have three well documented examples to get started.
 
-** All provided code is for education purposes only! **
+**All provided code is for education purposes only!**
 
 Requirements
 --------------
@@ -19,7 +19,15 @@ swftools (only for grooveshark - see below)
 
 Installation
 --------------
-Stream Media Download uses composer to maintain dependencies. Installation procedure:
+Stream Media Download uses composer to maintain dependencies. 
+
+Composer Installation procedure:
+```
+curl -sS https://getcomposer.org/installer | php
+php composer.phar require vitalijssilins/streammediadownload dev-master
+```
+
+Direct Github Installation procedure:
 
 ```sh
 git clone https://github.com/vitalijssilins/streammediadownload streammediadownload
