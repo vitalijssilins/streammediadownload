@@ -5,6 +5,8 @@ Stream Media Download is a PHP script, which is capable of getting stream links 
 You can fork this project and use AbstractAdapter.php class to add additional streaming services.
 You have three well documented examples to get started.
 
+** All provided code is for education purposes only! **
+
 Requirements
 --------------
 Be sure to install these libraries on the server, before using Stream Media Download:
